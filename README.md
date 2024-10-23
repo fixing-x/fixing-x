@@ -73,6 +73,13 @@ I’m fluent in three languages: English, jargon, and translating "ASAP" to "rea
 
 ---
 
+## 📫 How to Reach Me
+
+- Email me at [traversities'at'gmail.com](mailto:traversities@gmail.com?body=%0D%0A%0D%0A%0D%0A%0D%0A%0D%0A%7BfromGithub%7D)
+
+---
+
+
 <p align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=fixing-x.fixing-x" alt="Visitors">
 </p>
