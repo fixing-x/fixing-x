@@ -15,7 +15,7 @@ Aspiring Product Manager with a passion for building and scaling impactful produ
 
 ### 📊 Analytics & Data
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Google%20Analytics-%23E37400.svg?style=for-the-badge&logo=google%20analytics&logoColor=white" alt="Google Analytics"/>
   <img src="https://img.shields.io/badge/Mixpanel-%234B4BFF.svg?style=for-the-badge&logo=mixpanel&logoColor=white" alt="Mixpanel"/>
   <img src="https://img.shields.io/badge/Amplitude-%237C45C5.svg?style=for-the-badge&logo=amplitude&logoColor=white" alt="Amplitude"/>
@@ -24,7 +24,7 @@ Aspiring Product Manager with a passion for building and scaling impactful produ
 
 ### 🎨 Design & Prototyping
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
   <img src="https://img.shields.io/badge/Miro-%23000000.svg?style=for-the-badge&logo=miro&logoColor=white" alt="Miro"/>
   <img src="https://img.shields.io/badge/Adobe%20XD-%23FF61F6.svg?style=for-the-badge&logo=adobexd&logoColor=white" alt="Adobe XD"/>
@@ -32,7 +32,7 @@ Aspiring Product Manager with a passion for building and scaling impactful produ
 
 ### 📋 Project Management & Collaboration
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
   <img src="https://img.shields.io/badge/Jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
   <img src="https://img.shields.io/badge/Confluence-%23266CD3.svg?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence"/>
@@ -43,7 +43,7 @@ Aspiring Product Manager with a passion for building and scaling impactful produ
 
 ### 💻 Coding & Scripting Languages
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
   <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
