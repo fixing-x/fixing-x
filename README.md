@@ -7,7 +7,8 @@ _I design & write 1-2 lines of code in the product_
 
 ## 🧑‍💻 About Me
 
-Aspiring Product Manager with a passion for building and scaling impactful products. I thrive at the intersection of design, development, and business, using my diverse skill set to bring ideas to life. Whether it’s crafting user experiences, writing a bit of code, or aligning the team towards a common goal, I’m all about creating products that users love.
+Aspiring Product Manager with a passion for building and scaling impactful products. I thrive at the intersection of design, development, and business, using my diverse skill set to bring ideas to life. 
+Whether crafting user experiences, writing a bit of code, or aligning the team towards a common goal, I’m all about creating products that users love.
 
 ---
 
@@ -19,7 +20,8 @@ Aspiring Product Manager with a passion for building and scaling impactful produ
   <img src="https://img.shields.io/badge/Mixpanel-%234B4BFF.svg?style=for-the-badge&logo=mixpanel&logoColor=white" alt="Mixpanel"/>
    <img src="https://img.shields.io/badge/Google%20Analytics-%23E37400.svg?style=for-the-badge&logo=google%20analytics&logoColor=white" alt="Google Analytics"/>
   <img src="https://img.shields.io/badge/Amplitude-%237C45C5.svg?style=for-the-badge&logo=amplitude&logoColor=white" alt="Amplitude"/>
-  <img src="https://img.shields.io/badge/Segment-%230061FF.svg?style=for-the-badge&logo=segment&logoColor=white" alt="Segment"/>
+<img src="https://img.shields.io/badge/Hotjar-FF3C00.svg?style=for-the-badge&logo=Hotjar&logoColor=white" alt="Hotjar"/>
+  <img src="https://img.shields.io/badge/Sentry-362D59.svg?style=for-the-badge&logo=Sentry&logoColor=white" alt="Sentry"/>
 </p>
 
 ### 🎨 Design & Prototyping
