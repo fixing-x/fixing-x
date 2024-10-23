@@ -73,6 +73,6 @@ I’m fluent in three languages: English, jargon, and translating "ASAP" to "rea
 
 ---
 
-<p align="center">
+<p align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=fixing-x.fixing-x" alt="Visitors">
 </p>
