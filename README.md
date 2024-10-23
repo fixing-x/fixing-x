@@ -16,8 +16,8 @@ Aspiring Product Manager with a passion for building and scaling impactful produ
 ### 📊 Analytics & Data
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Google%20Analytics-%23E37400.svg?style=for-the-badge&logo=google%20analytics&logoColor=white" alt="Google Analytics"/>
   <img src="https://img.shields.io/badge/Mixpanel-%234B4BFF.svg?style=for-the-badge&logo=mixpanel&logoColor=white" alt="Mixpanel"/>
+   <img src="https://img.shields.io/badge/Google%20Analytics-%23E37400.svg?style=for-the-badge&logo=google%20analytics&logoColor=white" alt="Google Analytics"/>
   <img src="https://img.shields.io/badge/Amplitude-%237C45C5.svg?style=for-the-badge&logo=amplitude&logoColor=white" alt="Amplitude"/>
   <img src="https://img.shields.io/badge/Segment-%230061FF.svg?style=for-the-badge&logo=segment&logoColor=white" alt="Segment"/>
 </p>
