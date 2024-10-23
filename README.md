@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Ajay Sharma 👋
 
 _I design & write 1-2 lines of code in the product_  
 — Built [Vibe](https://getvibe.in/)
