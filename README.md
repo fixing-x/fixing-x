@@ -1,12 +1,5 @@
 # Hi, I'm Ajay Sharma 👋
 
-_I design & write 1-2 lines of code in the product_  
-— Built [Vibe](https://getvibe.in/)
-
----
-
-## 🧑‍💻 About Me
-
 Aspiring Product Manager with a passion for building and scaling impactful products. I thrive at the intersection of design, development, and business, using my diverse skill set to bring ideas to life. 
 Whether crafting user experiences, writing a bit of code, or aligning the team towards a common goal, I’m all about creating products that users love.
 
