@@ -1,11 +1,17 @@
-# Hi, I'm Ajay Sharma 👋
+# Hey,Ajay here👋
 
-Aspiring Product Manager with a passion for building and scaling impactful products. I thrive at the intersection of design, development, and business, using my diverse skill set to bring ideas to life. 
-Whether crafting user experiences, writing a bit of code, or aligning the team towards a common goal, I’m all about creating products that users love.
+_tl;dr_
+Currently making fun little apps. Interested in all things that make money.
 
+**Economic Philosophy**: Make more money.<br>
+**General Philosophy**: Live and let live.
+
+**Past**: Design → Marketing → Digital Solutions → Product ∞
+
+> Ping me if you building something cool.
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠️ My Tool Stack
 
 ### 📊 Analytics & Data
 
