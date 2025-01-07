@@ -35,8 +35,6 @@ Currently making fun little apps. Interested in all things that make money.
 
 <p align="left">
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
-  <img src="https://img.shields.io/badge/Jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
-  <img src="https://img.shields.io/badge/Confluence-%23266CD3.svg?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence"/>
   <img src="https://img.shields.io/badge/Slack-%234A154B.svg?style=for-the-badge&logo=slack&logoColor=white" alt="Slack"/>
   <img src="https://img.shields.io/badge/Linear-%237B37FB.svg?style=for-the-badge&logo=linear&logoColor=white" alt="Linear"/>
   <img src="https://img.shields.io/badge/Airtable-%23E97627.svg?style=for-the-badge&logo=airtable&logoColor=white" alt="Airtable"/>
