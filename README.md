@@ -74,7 +74,7 @@ I’m fluent in three languages: English, jargon, and translating "ASAP" to "rea
 
 ## 📫 How to Reach Me
 
-- Email me at [traversities'at'gmail.com](mailto:traversities@gmail.com?body=%0D%0A%0D%0A%0D%0A%0D%0A%0D%0A%7BfromGithub%7D)
+- Email me at [mfixingux'at'gmail.com](mailto:mfixingux@gmail.com?body=%0D%0A%0D%0A%0D%0A%0D%0A%0D%0A%7BfromGithub%7D)
 
 ---
 
