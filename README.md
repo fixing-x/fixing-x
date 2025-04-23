@@ -1,4 +1,4 @@
-# Hey,Ajay here👋
+# Hey, Ajay here👋
 
 _tl;dr_
 Currently making fun little apps. Interested in all things that make money.
