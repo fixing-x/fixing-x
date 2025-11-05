@@ -13,6 +13,14 @@ Currently making fun little apps. Interested in all things that make money.
 
 ## 🛠️ My Tool Stack
 
+### 🎨 Design & Prototyping
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Miro-%23000000.svg?style=for-the-badge&logo=miro&logoColor=white" alt="Miro"/>
+  <img src="https://img.shields.io/badge/Adobe%20XD-%23FF61F6.svg?style=for-the-badge&logo=adobexd&logoColor=white" alt="Adobe XD"/>
+</p>
+
 ### 📊 Analytics & Data
 
 <p align="left">
@@ -21,14 +29,6 @@ Currently making fun little apps. Interested in all things that make money.
   <img src="https://img.shields.io/badge/Amplitude-%237C45C5.svg?style=for-the-badge&logo=amplitude&logoColor=white" alt="Amplitude"/>
 <img src="https://img.shields.io/badge/Hotjar-FF3C00.svg?style=for-the-badge&logo=Hotjar&logoColor=white" alt="Hotjar"/>
   <img src="https://img.shields.io/badge/Sentry-362D59.svg?style=for-the-badge&logo=Sentry&logoColor=white" alt="Sentry"/>
-</p>
-
-### 🎨 Design & Prototyping
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Miro-%23000000.svg?style=for-the-badge&logo=miro&logoColor=white" alt="Miro"/>
-  <img src="https://img.shields.io/badge/Adobe%20XD-%23FF61F6.svg?style=for-the-badge&logo=adobexd&logoColor=white" alt="Adobe XD"/>
 </p>
 
 ### 📋 Project Management & Collaboration
