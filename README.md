@@ -26,9 +26,7 @@ Currently making fun little apps. Interested in all things that make money.
 <p align="left">
   <img src="https://img.shields.io/badge/Mixpanel-%234B4BFF.svg?style=for-the-badge&logo=mixpanel&logoColor=white" alt="Mixpanel"/>
    <img src="https://img.shields.io/badge/Google%20Analytics-%23E37400.svg?style=for-the-badge&logo=google%20analytics&logoColor=white" alt="Google Analytics"/>
-  <img src="https://img.shields.io/badge/Amplitude-%237C45C5.svg?style=for-the-badge&logo=amplitude&logoColor=white" alt="Amplitude"/>
 <img src="https://img.shields.io/badge/Hotjar-FF3C00.svg?style=for-the-badge&logo=Hotjar&logoColor=white" alt="Hotjar"/>
-  <img src="https://img.shields.io/badge/Sentry-362D59.svg?style=for-the-badge&logo=Sentry&logoColor=white" alt="Sentry"/>
 </p>
 
 ### 📋 Project Management & Collaboration
@@ -36,8 +34,9 @@ Currently making fun little apps. Interested in all things that make money.
 <p align="left">
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
   <img src="https://img.shields.io/badge/Slack-%234A154B.svg?style=for-the-badge&logo=slack&logoColor=white" alt="Slack"/>
-  <img src="https://img.shields.io/badge/Linear-%237B37FB.svg?style=for-the-badge&logo=linear&logoColor=white" alt="Linear"/>
-  <img src="https://img.shields.io/badge/Airtable-%23E97627.svg?style=for-the-badge&logo=airtable&logoColor=white" alt="Airtable"/>
+  <img src="https://img.shields.io/badge/Linear-%237B37FB.svg?style=for-the-badge&logo=linear&logoColor=white" alt="Linear"?>
+  <img src="https://img.shields.io/badge/WhatsApp-%2500E676.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"?>
+   <img src="https://img.shields.io/badge/Plane.so-%2300D1FF.svg?style=for-the-badge&logo=plane&logoColor=white" alt="Plane"?>
 </p>
 
 ### 💻 Coding & Scripting Languages
